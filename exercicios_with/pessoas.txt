@@ -1,0 +1,3 @@
+Nome: Ana, Idade: 30 
+Nome: Bruno, Idade: 25 
+Nome: Carla, Idade: 35

@@ -1,0 +1,21 @@
+Requisito ID;Descrição do requisito;Caso de Teste;Artefato de Design;Status
+RF001;Login no Sistema;CT001, CT002;LoginPage.html;   Em progresso
+RF002;Recuperar senha;CT003, CT004;RecoverPasswordPage.html;Em análise
+RF003;Cadastrar novo usuário;CT005, CT006;RegisterUserPage.html;Concluído
+  RF004;Criar tarefa;CT007, CT008;CreateTaskPage.js;Em teste
+  RF005;Editar tarefa;CT009, CT010;EditTaskPage.js;Em desenvolvimento
+RF006;Estabelecer prioridades nas tarefas;CT011, CT012;TaskPriorityComponent.js;Concluído
+  RF007;  Marcar a tarefa como concluída ou pendente;CT013, CT014;TaskStatusToggle.js;Em teste
+  RF008;Filtrar as tarefas por prioridade;CT015, CT016;TaskFilterComponent.js;Em análise
+  RF009;Lembrete;CT017, CT018;ReminderSetup.js;Não iniciado
+  RF010;Integração com calendário;CT019, CT020;CalendarIntegration.js;Não iniciado
+  RF011;Registro de tempo gasto em cada tarefa;CT021, CT022;TimeTrackingComponent.js;Em desenvolvimento
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
+;;;;
